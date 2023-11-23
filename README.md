@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```
+class AboutMe {
+    val firstName = "Arnab"
+    val lastName = "Kundu"
+    val linkedin = "https://www.linkedin.com/in/arnab-kundu-80b06838/"
+-   val yearsOfExperience = 6
++   val yearsOfExperience = 7
+    val role = "Senior Android App Developer"
+}
+```
 <!--
 **arnab-kundu/arnab-kundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
