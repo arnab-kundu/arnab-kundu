@@ -10,6 +10,12 @@ class AboutMe {
     val role = "Senior Android App Developer"
 }
 ```
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/18009010?s=96&v=4" width=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-kundu&&theme=dark&layout=compact">
+  <br>
+
+</p>
 <!--
 **arnab-kundu/arnab-kundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
