@@ -10,6 +10,13 @@ class AboutMe {
     val role = "Senior Android App Developer"
 }
 ```
+
+### Jitpack.IO
+```
+implementation("com.github.arnab-kundu:Storage:1.1.1")
+implementation("com.github.arnab-kundu:ESCPOS-ThermalPrinter-Android:v3.4.0")
+```
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/18009010?s=96&v=4" width=200>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-kundu&&theme=dark&layout=compact">
